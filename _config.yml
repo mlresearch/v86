@@ -7,7 +7,6 @@ year: '2018'
 start: 2018-07-15
 end: 2018-07-15
 published: 2020-04-27
-url: http://kdd.cs.ksu.edu/Workshops/IJCAI-2018-AffComp/
 location: Stockholm, Sodermanland, Sweden
 layout: proceedings
 series: Proceedings of Machine Learning Research
@@ -55,7 +54,7 @@ display:
 email: ''
 conference:
   name: Workshop on Artificial Intelligence in Affective Computing
-  url: 
+  url: http://kdd.cs.ksu.edu/Workshops/IJCAI-2018-AffComp/
   location: ''
   dates:
   - 2018-07-15
