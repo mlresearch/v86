@@ -1,6 +1,7 @@
 ---
 booktitle: Proceedings of IJCAI 2018 2nd Workshop on Artificial Intelligence in Affective
   Computing
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 shortname: AFFCOMP
 volume: 86
 year: '2018'
@@ -39,6 +40,10 @@ baseurl: "/v86"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
 style: pmlr
 plugins:
 - jekyll-feed
@@ -65,6 +70,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
-orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
 # Original source:  /Users/neil/mlresearch/bibtex.bib
